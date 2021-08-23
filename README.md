@@ -10,6 +10,13 @@
 [![DOCS](https://img.shields.io/badge/Documentation-see%20docs-green?style=flat-square&logo=appveyor)](https://github.com/Data-Science-Community-SRM/Hand-Written-Digit-Classification-Recognition/blob/master/README.md) 
   [![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=flat-square&logo=appveyor)](https://data-science-community-srm.github.io/Hand-Written-Digit-Classification-Recognition/index.html)
 	
+## My learning Outcome (Jahnavi Darbhamulla):
+- [ ] Created my first deep Learning Model.
+- [ ] Learnt how to deploy a deep learning model into a website.
+- [ ] Worked with various SVG's.
+- [ ] Learnt Tensorflow.js.<br>
+
+	
 ## Data preprocessing steps:
 - [ ] Splitting the data into training, testing and validation sets.
 - [ ] Flattening the images and displaying it.
