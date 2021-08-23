@@ -14,7 +14,8 @@
 - [ ] Created my first deep Learning Model.
 - [ ] Learnt how to deploy a deep learning model into a website.
 - [ ] Worked with various SVG's.
-- [ ] Learnt Tensorflow.js.<br>
+- [ ] Learnt Tensorflow.js.
+- [ ] Learnt how to collaborate and work with a team.<br>
 
 	
 ## Data preprocessing steps:
